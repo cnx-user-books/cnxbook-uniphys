@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax University Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12030</md:content-id>
     <md:title>uniphys</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>f3e7f16f-6cd2-4440-a51e-69d8aa625219</md:uuid>
-<md:slug>uniphys</md:slug>
-</metadata>
+    <md:slug>uniphys</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Units and Measurement</md:title>
